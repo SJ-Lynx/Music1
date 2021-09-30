@@ -1,0 +1,13 @@
+{
+    "name": "Music1",
+    "description": "Unofficial API of JioSaavn.",
+    "author": "SJ",
+    "keywords": [
+        "flask",
+        "python",
+        "saavn",
+        "SJ",
+        "music"
+    ],
+    "repository": "https://github.com/SJ-Lynx/Music1"
+}
